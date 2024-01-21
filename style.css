@@ -40,3 +40,7 @@ Tag:
     padding: 10px;
     text-decoration: none;
 }
+#site-navigation a:hover{
+    background-color: var(--leafy-green);
+}
+
