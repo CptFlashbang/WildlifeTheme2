@@ -16,3 +16,7 @@ Tag:
     --muted-olive: #A9A77D;
     --rich-soil-brown: #603311;
   }
+
+  .post-content {
+    background-color: var(--soft-beige);
+}
