@@ -43,4 +43,7 @@ Tag:
 #site-navigation a:hover{
     background-color: var(--leafy-green);
 }
+.current_page_item{
+    font-weight: bolder;
+}
 
