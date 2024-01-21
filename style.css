@@ -40,10 +40,11 @@ Tag:
     text-align: center;
     padding: 10px;
     text-decoration: none;
-    background-color: var(--deep-forest-gree);
+    background-color: var(--deep-forest-green);
 }
 #site-navigation a:hover{
-    background-color: var(--leafy-green);
+    background-color: var(--muted-olive);
+    color: var(--deep-forest-green);
 }
 .current_page_item{
     font-weight: bolder;
