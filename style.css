@@ -36,10 +36,11 @@ Tag:
 }
 #site-navigation a {
     display: block;
-    color: var(--deep-forest-gree);
+    color: var(--soft-beige);
     text-align: center;
     padding: 10px;
     text-decoration: none;
+    background-color: var(--deep-forest-gree);
 }
 #site-navigation a:hover{
     background-color: var(--leafy-green);
@@ -47,4 +48,5 @@ Tag:
 .current_page_item{
     font-weight: bolder;
 }
+
 
