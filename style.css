@@ -24,3 +24,9 @@ Tag:
     background-color: var(--leafy-green);
 }
 
+#site-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;
+}
