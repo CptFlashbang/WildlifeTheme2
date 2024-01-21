@@ -4,7 +4,15 @@ Description: Theme from scratch for Assignment 1 of SSP
 Author: Callum Yates | Y044924M
 Github: https://github.com/CptFlashbang/WildlifeTheme2.git
 Tag: 
-
-
-
 */
+
+:root {
+    --deep-forest-green: #00563F;
+    --moss-green: #7E9A67;
+    --earthy-brown: #8B5A2B;
+    --soft-beige: #D2B48C;
+    --forest-floor-brown: #704214;
+    --leafy-green: #4E6E51;
+    --muted-olive: #A9A77D;
+    --rich-soil-brown: #603311;
+  }
