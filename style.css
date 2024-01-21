@@ -24,6 +24,7 @@ Tag:
     background-color: var(--leafy-green);
 }
 
+/*Nav styling*/
 #site-navigation ul {
     list-style-type: none;
     margin: 0;
