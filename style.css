@@ -15,12 +15,12 @@ Tag:
     --leafy-green: #4E6E51;
     --muted-olive: #A9A77D;
     --rich-soil-brown: #603311;
-  }
+}
 
-    .post-content {
-        background-color: var(--soft-beige);
-    }
-    .events-post {
-        background-color: var(--leafy-green);
-    }
+.post-content {
+    background-color: var(--soft-beige);
+}
+.events-post {
+    background-color: var(--leafy-green);
+}
 
