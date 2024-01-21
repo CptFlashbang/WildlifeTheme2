@@ -33,3 +33,10 @@ Tag:
 #site-navigation li {
     width: 10%;
 }
+#site-navigation a {
+    display: block;
+    color: var(--deep-forest-gree);
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
