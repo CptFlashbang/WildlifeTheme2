@@ -3,10 +3,10 @@
 
     <?php //start the loop	
     if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
-        <?php if ( in_category( 'awards' ) ) : ?>
-            <div class="post-content awards-post">
-        <?php elseif (in_category( 'suppliers' ) ): ?>
-            <div class="post-content suppliers-post">
+        <?php if ( in_category( 'events' ) ) : ?>
+            <div class="post-content events-post">
+        <?php elseif (in_category( 'animals' ) ): ?>
+            <div class="post-content animals-post">
         <?php else : ?>
             <div class="post-content">
         <?php endif; ?>
