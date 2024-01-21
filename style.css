@@ -48,5 +48,33 @@ Tag:
 .current_page_item{
     font-weight: bolder;
 }
+/* nav sub-menus */
+#site-navigation li ul {
+    position: absolute;
+    display: none;
+    width: 135px;
+    background-color: rgb(0, 45, 48);
+}
 
+#site-navigation li ul li a {
+    text-align: left;
+}
 
+#site-navigation li:hover ul {
+    display: block;
+}
+/* nav sub-menus */
+#site-navigation li ul {
+    position: absolute;
+    display: none;
+    width: 135px;
+    background-color: var(--deep-forest-gree);
+}
+
+#site-navigation li ul li a {
+    text-align: left;
+}
+
+#site-navigation li:hover ul {
+    display: block;
+}
