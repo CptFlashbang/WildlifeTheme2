@@ -30,3 +30,6 @@ Tag:
     display: flex;
     justify-content: flex-end;
 }
+#site-navigation li {
+    width: 10%;
+}
